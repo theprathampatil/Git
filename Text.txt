@@ -1,0 +1,6 @@
+Name: Pratham Patil
+
+Roll No: 2301136
+
+This is the demo of How to use Git command in Git Bash
+This demo will help you to know about commands:
